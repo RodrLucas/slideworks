@@ -19,7 +19,7 @@ export const ContainerItems = styled.div`
     flex-direction: column;
     gap: 0.5rem;
     width: 260px;
-    height: 484px;
+    height: 520px;
     border: 1px solid #DBDBDB;
     padding: 0.5rem;
     margin: 10px 0;
